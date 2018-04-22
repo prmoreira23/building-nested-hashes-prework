@@ -26,7 +26,7 @@ def third_challenge
           {
               name: "Mercutio",
               agr: 18,
-              attitude: "hot_headed"
+              attitude: "hot-headed"
           }
       ]
    },

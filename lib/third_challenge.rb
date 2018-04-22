@@ -20,12 +20,12 @@ def third_challenge
       :hero_friends => [
           {
               name: "Benvolio",
-              agr: 17,
+              age: 17,
               attitude: "worried"
           },
           {
               name: "Mercutio",
-              agr: 18,
+              age: 18,
               attitude: "hot-headed"
           }
       ]

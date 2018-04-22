@@ -22,11 +22,11 @@ def third_challenge
               name: "Benvolio",
               agr: 17,
               attitude: "worried"
-          }, 
+          },
           {
-              name: "Benvolio",
-              agr: 17,
-              attitude: "worried"
+              name: "Mercutio",
+              agr: 18,
+              attitude: "hot_headed"
           }
       ]
    },
